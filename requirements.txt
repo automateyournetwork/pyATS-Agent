@@ -1,0 +1,13 @@
+# Google GenAI SDK
+google-genai
+
+# Model Context Protocol (MCP)
+mcp
+pydantic
+python-dotenv
+
+# Cisco pyATS & Genie
+pyats[full]
+
+# Async support
+asyncio
